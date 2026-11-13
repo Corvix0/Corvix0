@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Suleyman, a Computer Engineering student in Azerbaijan.
+
+I learn backend development and system programming. Although my projects were written in python, I also will learn C,C++ and Rust. I like to learn about technologies, programming, and innovations. Additionally, I also love open-source development.
+
