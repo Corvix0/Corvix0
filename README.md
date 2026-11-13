@@ -14,20 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{username}}/{{username}}/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{username}}/{{username}}/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/{{username}}/{{username}}/output/snake.svg" width="100%" />
-</picture>
 
-### {{name}}
-
-> *{{tagline}}*
-
-The snake above is built fresh every day — it's eating real commits, not props.
-
-— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
 I'm Suleyman, a Computer Engineering student in Azerbaijan.
 
 I learn backend development and system programming. Although my projects were written in python, I also will learn C,C++ and Rust. I like to learn about technologies, programming, and innovations. Additionally, I love open-source development.
 
+Hi, I'm Suleyman! 👋
+
+I'm a Computer Engineering student in Azerbaijan.
+I have an interest in backend development, system programming, and open-source software.
+
+Currently, I'm focusing on Python and backend development. I'm also interested in lower-level programming languages such as C, C++, and Rust to understand deeply how software and computer systems work.
+
+I like exploring new technologies, understanding how things works, and building projects that help me improve my programming skills.
+
+Technologies & Tools
+
+    Languages: Python, SQL
+    Databases: SQLite
+    Tools: Git, GitHub
+
+Interests
+
+    Backend Development
+    Systems Programming
+    Open-Source Software
+    Computer Science & Technology
+
+You can contact with me: 
+
+    GitHub: @Corvix0
