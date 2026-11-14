@@ -28,7 +28,7 @@ Technologies & Tools
 
     Languages: Python, SQL
     Databases: SQLite
-    Tools: Git, GitHub
+    Tools: Git, GitHub, Vscodium
 
 Interests
 
