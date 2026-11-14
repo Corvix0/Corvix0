@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm Suleyman, a Computer Engineering student in Azerbaijan.
 
-I'm a Computer Engineering student in Azerbaijan.
 I have an interest in backend development, system programming, and open-source software.
 
 Currently, I'm focusing on Python and backend development. I'm also interested in lower-level programming languages such as C, C++, and Rust to understand deeply how software and computer systems work.
